@@ -1,2 +1,2 @@
 # Cube-Showdown
-A simple arcade game.
+A simple arcade game. Install and enjoy!
